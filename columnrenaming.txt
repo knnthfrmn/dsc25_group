@@ -1,0 +1,67 @@
+
+
+2015
+    'Country' V
+    'Region' X
+    'Happiness Rank' V
+    'Happiness Score' V
+    'Standard Error' X
+    'Economy (GDP per Capita)' = 'GDPpercap'
+    'Family' V
+    'Health (Life Expectancy)' = 'Life Expectancy'
+    'Freedom' V
+    'Trust (Government Corruption)' = 'Corruption'
+    'Generosity' V
+    'Dystopia Residual' X
+    'year' V
+2016
+    'Country' V
+    'Region' X
+    'Happiness Rank' V
+    'Happiness Score' V
+    'Lower Confidence Interval' X
+    'Upper Confidence Interval' X
+    'Economy (GDP per Capita)' = 'GDPpercap'
+    'Family' V
+    'Health (Life Expectancy)' = 'Life Expectancy'
+    'Freedom' V
+    'Trust (Government Corruption)' = 'Corruption'
+    'Generosity' V
+    'Dystopia Residual' X
+    'year' V
+2017
+    'Country' V
+    'Happiness.Rank' = 'Happiness Rank'
+    'Happiness.Score' = 'Happiness Score'
+    'Whisker.high' X
+    'Whisker.low' X
+    'Economy..GDP.per.Capita.' = 'GDPpercap'
+    'Family' V
+    'Health..Life.Expectancy.' = 'Life Expectancy'
+    'Freedom' V
+    'Generosity' V
+    'Trust..Government.Corruption.' = 'Corruption'
+    'Dystopia.Residual' X
+    'year' V
+2018
+    'Overall rank' = 'Happiness Rank'
+    'Country or region' = 'Country'
+    'Score' = 'Happiness Score'
+    'GDP per capita' = 'GDPpercap'
+    'Social support' = 'Family'
+    'Healthy life expectancy' = 'Life Expectancy'
+    'Freedom to make life choices' = 'Freedom'
+    'Generosity' V
+    'Perceptions of corruption' = 'Corruption'
+    'year' V
+2019
+    'Overall rank' = 'Happiness Rank'
+    'Country or region' = 'Country'
+    'Score' = 'Happiness Score'
+    'GDP per capita' = = 'GDPpercap'
+    'Social support' = 'Family'
+    'Healthy life expectancy' = 'Life Expectancy'
+    'Freedom to make life choices' = 'Freedom'
+    'Generosity' V
+    'Perceptions of corruption' = 'Corruption'
+    'year' V
