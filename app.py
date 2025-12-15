@@ -66,8 +66,7 @@ def server(input, output, session):
         sns.regplot(
             data=df_clean,
             x=x,
-            y=y,
-            scatter=False,  # match notebook style
+            y=y, 
             line_kws={"linewidth": 2, "color": "darkorchid"}
         )
 
@@ -89,7 +88,7 @@ def server(input, output, session):
 
         df_clean = combined_df[[x, y]].dropna()
 
-        # Regression for R²
+        # Regression for R-squared
         X = df_clean[[x]].values
         Y = df_clean[y].values
         model = LinearRegression().fit(X, Y)
